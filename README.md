@@ -3,6 +3,7 @@
 ## About
 
 Convert the RF to EU or EU to RF
+On [Modern Industrialization(EU)](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization "Modern Industrialization(EU)") to Mod That use RF
 
 ## Setup
 
