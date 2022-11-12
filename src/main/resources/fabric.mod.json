@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "etfc",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "RF to EU Converter",
+  "description": "Convert RedStoneFlux to Energy unit",
   "authors": [
-    "Me!"
+    "pen787"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/pen787/EU-to-RF-Converter"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/etfc/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "pen787.pen.etfc.pen787"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "etfc.mixins.json"
   ],
 
   "depends": {
